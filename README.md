@@ -2,7 +2,7 @@
 
 An interactive Human Resources analytics dashboard built with Tableau Public to analyze employee retention, headcount distribution, and key workforce metrics.
 
-🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HRDashboard_17934043997690/HRSummary)**
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HRDashboard_17934043997690/HRSummary)
 
 
 
